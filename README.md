@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Aalok Mishra`
-- **CCID:** `1826073`
+- **CCID:** `aalok1`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
